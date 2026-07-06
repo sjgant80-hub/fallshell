@@ -1,0 +1,26 @@
+{
+  "name": "FallShell · AI-Native Solutions estate portal",
+  "short_name": "FallShell",
+  "description": "Sovereign PWA portal for the AI-Native Solutions estate. One shell for every tool.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1a1a1e",
+  "theme_color": "#1a1a1e",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%231a1a1e'/><text x='96' y='130' font-family='serif' font-size='120' fill='%237a9c7e' text-anchor='middle'>%E2%97%88</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%231a1a1e'/><text x='256' y='350' font-family='serif' font-size='320' fill='%237a9c7e' text-anchor='middle'>%E2%97%88</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"]
+}
